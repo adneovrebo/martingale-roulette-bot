@@ -1,0 +1,8 @@
+red =234,50,35
+black =0,0,0
+green =71,157,65
+position result =1088,708
+position statusbar =1520,982
+position betblack =850,1354
+position betred =669,1354
+position double bet =1370,1525

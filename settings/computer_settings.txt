@@ -1,0 +1,2 @@
+Macbook Pro 13" with touchbar:settings/macbook_pro_13_touch.txt
+Huawei Matebook 13 2019:settings/huawei_Matebook_13_2019.txt
